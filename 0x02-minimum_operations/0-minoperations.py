@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 import sys
-""" Given a number n, write a method that calculates the fewest number of operations needed to result in exactly n H characters in the file """
+"""the minimum operation coding challenge """
 
 
 def minOperations(n):
